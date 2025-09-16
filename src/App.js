@@ -5,7 +5,7 @@ import TeamCSK from './IPL_Component/TeamCSK';
 function App() {
   return (
     <div className="App">
-      <TeamCSK/>
+     <h1>Hello GitHub</h1>
     </div>
     );
 }
